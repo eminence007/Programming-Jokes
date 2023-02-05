@@ -10,3 +10,9 @@ Vibhor: A Promise is a proxy for a value not necessarily known when the promise 
 
 ---
 
+#### 2. Q: Why was the developer unhappy at their job?
+
+A: They wanted arrays.
+
+---
+
